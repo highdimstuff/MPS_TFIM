@@ -1,4 +1,4 @@
-## A Study of Matrix Product States
+## Tensor Network: A Study of Matrix Product States
 
 This repository contains my summer internship report on **Tensor Networks** with a focus on **Matrix Product States (MPS)**, together with a Julia implementation of the **Density Matrix Renormalization Group (DMRG)** algorithm using the **ITensor** library. The work combines the theoretical foundations of tensor network methods with their numerical application to the one-dimensional **Transverse Field Ising Model (TFIM)**.
 
