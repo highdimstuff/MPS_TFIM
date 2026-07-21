@@ -7,7 +7,7 @@ The report introduces the motivation behind tensor network methods, the matrix p
 ## Repository Contents
 
 * **`denison_report.pdf`** — Internship report covering the theoretical background of tensor networks, matrix product states, and numerical results.
-* **`tfim_benchmark.jl`** — Julia implementation of DMRG for the one-dimensional Transverse Field Ising Model using ITensor.
+* **`tfim_mps.jl`** — Julia implementation of DMRG for the one-dimensional Transverse Field Ising Model using ITensor.
 
 ## Requirements
 
