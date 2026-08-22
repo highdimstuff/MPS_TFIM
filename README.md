@@ -16,6 +16,3 @@ The report introduces the motivation behind tensor network methods, the matrix p
 * ITensorMPS.jl
 * Printf.jl
   
-**Moirangthem Denison Meitei**
-
-M.S. Quantum Technology, IISER Pune
