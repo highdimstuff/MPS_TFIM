@@ -16,5 +16,5 @@ The report introduces the motivation behind tensor network methods, the matrix p
 * ITensorMPS.jl
 * Printf.jl
 * Python
-* Matplotlib.pyplot
+* Matplotlib
   
