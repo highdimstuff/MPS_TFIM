@@ -11,10 +11,10 @@ The report introduces the motivation behind tensor network methods, the matrix p
 
 ## Requirements
 
-* Julia
-* ITensors.jl
-* ITensorMPS.jl
-* Printf.jl
-* Python
-* Matplotlib
+* Julia:
+  - ITensors.jl
+  - ITensorMPS.jl
+  - Printf.jl
+* Python:
+  - Matplotlib
   
